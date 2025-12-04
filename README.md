@@ -17,16 +17,30 @@
 
 <br/>
 
-## 🚀 About Me
+<!-- About section avec image -->
+<table>
+<tr>
+<td width="50%">
 
-```javascript
-const lorenzo = {
-    location: "France 🇫🇷",
-    role: "Full-Stack Developer",
-    focus: ["Web Apps", "UI/UX", "Animations"],
-    passion: "Creating premium digital experiences"
-};
-```
+### 👨‍💻 À propos
+
+Je suis un développeur **Full-Stack** basé en **France** 🇫🇷
+
+Je crée des **applications web modernes** avec une attention particulière portée à :
+
+- ✨ **L'expérience utilisateur** et les interfaces soignées
+- ⚡ **La performance** et l'optimisation
+- 🎨 **Les animations** fluides et premium
+- 🛠️ **Le code propre** et maintenable
+
+</td>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
